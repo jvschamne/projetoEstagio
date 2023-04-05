@@ -76,5 +76,6 @@ Por fim, podemos utilizar bibliotecas de controle de estado como o Redux ou MobX
 
 
 
+https://www.youtube.com/watch?v=JxtQJ8P0ekE
 
-
+https://github.com/WilliamDosSantos/CRUD-JavaScript/blob/main/style.css
